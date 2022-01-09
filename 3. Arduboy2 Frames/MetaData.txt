@@ -1,0 +1,7 @@
+"title": "Etch-A-Sketch: Arduboy2 Frames",
+"type":"COURSE",
+"summary":"Controlling the rendering speed of the program to make the cursor movements manageable.",
+"tags":["Neginner","Game"],
+"durationInMinutes": 5,
+"compileEntryPath":"Etch-A-Sketch.ino",
+"workFilePath":"ExampleCode/Etch-A-Sketch.ino"

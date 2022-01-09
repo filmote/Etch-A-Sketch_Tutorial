@@ -1,0 +1,7 @@
+"title": "Etch-A-Sketch: Adding a Reset Button",
+"type":"COURSE",
+"summary":"Add a reset function that will clear the screen between works of art.",
+"tags":["Neginner","Game"],
+"durationInMinutes": 5,
+"compileEntryPath":"Etch-A-Sketch.ino",
+"workFilePath":"ExampleCode/Etch-A-Sketch.ino"

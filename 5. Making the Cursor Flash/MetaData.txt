@@ -1,0 +1,7 @@
+"title": "Etch-A-Sketch: Making the Cursor Flash",
+"type":"COURSE",
+"summary":"Make the cursor flash onscreen so that is position can be easily seen.",
+"tags":["Neginner","Game"],
+"durationInMinutes": 5,
+"compileEntryPath":"Etch-A-Sketch.ino",
+"workFilePath":"ExampleCode/Etch-A-Sketch.ino"

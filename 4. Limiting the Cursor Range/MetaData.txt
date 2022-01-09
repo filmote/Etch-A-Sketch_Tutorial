@@ -1,0 +1,7 @@
+"title": "Etch-A-Sketch: Limiting the Cursor Range",
+"type":"COURSE",
+"summary":"Prevent the cursor from leaving the screen / limiting movements to the avaialble screen.",
+"tags":["Neginner","Game"],
+"durationInMinutes": 5,
+"compileEntryPath":"Etch-A-Sketch.ino",
+"workFilePath":"ExampleCode/Etch-A-Sketch.ino"
