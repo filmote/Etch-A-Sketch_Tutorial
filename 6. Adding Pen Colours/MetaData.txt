@@ -1,7 +1,7 @@
 "title": "Etch-A-Sketch: Adding Pen Colours",
 "type":"COURSE",
 "summary":"Allow the user to swap between pen colours - even if it is limited to black and white!",
-"tags":["Neginner","Game"],
+"tags":["Beginner","Game"],
 "durationInMinutes": 5,
 "compileEntryPath":"Etch-A-Sketch.ino",
 "workFilePath":"ExampleCode/Etch-A-Sketch.ino"

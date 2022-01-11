@@ -1,7 +1,7 @@
 "title": "Etch-A-Sketch: Adding a Pen Up / Pen Down Function",
 "type":"COURSE",
 "summary":"Add a pen up / pen down function to allow the user to move to different parts of the screen with leaving a trail.",
-"tags":["Neginner","Game"],
+"tags":["Beginner","Game"],
 "durationInMinutes": 5,
 "compileEntryPath":"Etch-A-Sketch.ino",
 "workFilePath":"ExampleCode/Etch-A-Sketch.ino"

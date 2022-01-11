@@ -1,7 +1,7 @@
 "title": "Etch-A-Sketch: Creating and Moving a Cursor",
 "type":"COURSE",
 "summary":"Creating and moving a cursor around the screen by detecting the player clicking buttons.",
-"tags":["Neginner","Game"],
+"tags":["Beginner","Game"],
 "durationInMinutes": 5,
 "compileEntryPath":"Etch-A-Sketch.ino",
 "workFilePath":"ExampleCode/Etch-A-Sketch.ino"
